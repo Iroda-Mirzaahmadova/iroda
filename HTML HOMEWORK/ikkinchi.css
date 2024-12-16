@@ -1,0 +1,60 @@
+.box {
+    width: 600px;
+    height: 600px;
+    border: solid;
+    display: flex;
+    gap: 60px;
+    justify-content: space-between;
+    margin-left: 20px;
+    align-items: center;
+}
+.zagolovok1 {
+    width: 430px;
+    height: 350px;
+    border: solid;
+    border-radius: 30px;
+}
+.zagolovok2 {
+    width: 430px;
+    height: 350px;
+    border: solid;
+    border-radius: 30px;
+}
+.imgUchun {
+    width: 100%;
+    height: 50%;
+  
+}
+.imgUchun img {
+    width: 100%;  /* Rasmni kengligini div bilan tenglashtirish */
+    height: 90%;  /* Rasmning balandligini div bilan tenglashtirish */
+    object-fit: cover;
+    border-radius: 30px 30px 0px 0px;
+}
+.nom {
+    width:246px;
+    height: 30px;
+    border: solid;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    display: flex;
+    padding-left: 16px;
+    margin-top: -17px;
+}
+.matn {
+    font-size: 16px;
+    padding-bottom: 100px;
+    
+}
+.LO {
+    padding-bottom: 20px;
+}
+.LO p{
+   
+    height: 70px;
+    width: 90%;
+    font-size: 15px;
+    margin-left: 16px;
+    margin-top: 4px;
+}

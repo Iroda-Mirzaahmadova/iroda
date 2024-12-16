@@ -1,0 +1,16 @@
+table, th, td {
+        border: 1px solid #000000; 
+        text-align: center;
+        
+
+    }
+
+table{
+    width: 400px
+    
+    
+}
+th , td {
+     padding: ren;
+     height: 30px;
+}
